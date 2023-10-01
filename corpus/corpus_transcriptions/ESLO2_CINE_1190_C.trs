@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Admin" audio_filename="ESLO2_cin_04_04" version="16" version_date="131216">
+<Speakers>
+<Speaker id="spk1" name="NX422" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="HJ330" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="MK912" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="123.272">
+<Turn startTime="0" endTime="2.74">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2.74" endTime="4.585">
+<Sync time="2.74"/>
+excusez-moi bonj- soir 
+</Turn>
+<Turn speaker="spk2" startTime="4.585" endTime="5.165">
+<Sync time="4.585"/>
+bonsoir
+</Turn>
+<Turn speaker="spk1" startTime="5.165" endTime="7.655">
+<Sync time="5.165"/>
+est-ce que je peux vous déranger deux petites minutes s'il vous plaît ?
+</Turn>
+<Turn speaker="spk2" startTime="7.655" endTime="8.327">
+<Sync time="7.655"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="8.327" endTime="12.897">
+<Sync time="8.327"/>
+en fait euh on est à la on est étudiantes à la &amp;fac d'Orléans et on fait une étude euh sur le cinéma à Orléans
+</Turn>
+<Turn speaker="spk2" startTime="12.897" endTime="14.029">
+<Sync time="12.897"/>
+d'accord
+<Sync time="13.62"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.029" endTime="18.458">
+<Sync time="14.029"/>
+on peut vous enregistrer ?
+<Sync time="15.402"/>
+
+<Sync time="16.652"/>
+c'est totalement anonyme et euh
+</Turn>
+<Turn speaker="spk2 spk3" startTime="18.458" endTime="19.836">
+<Sync time="18.458"/>
+<Who nb="1"/>
+bon bah allez-y hein 
+<Who nb="2"/>
+y a vraiment pas de risque
+</Turn>
+<Turn speaker="spk1 spk3" startTime="19.836" endTime="21.281">
+<Sync time="19.836"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+merci hein 
+</Turn>
+<Turn speaker="spk1" startTime="21.281" endTime="23.421">
+<Sync time="21.281"/>
+donc euh quel film vous venez de voir ?
+</Turn>
+<Turn speaker="spk2" startTime="23.421" endTime="25.453">
+<Sync time="23.421"/>
+La Couleur des Sentiments
+</Turn>
+<Turn speaker="spk1" startTime="25.453" endTime="26.908">
+<Sync time="25.453"/>
+d'accord est-ce que ça vous a plu ?
+</Turn>
+<Turn speaker="spk2" startTime="26.908" endTime="27.733">
+<Sync time="26.908"/>
+c'était génial
+</Turn>
+<Turn speaker="spk1" startTime="27.733" endTime="31.594">
+<Sync time="27.733"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ qu'est-ce qui vous a plu ? 
+<Sync time="29.939"/>
+le scénario ? les acteurs ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="31.594" endTime="32.19">
+<Sync time="31.594"/>
+<Who nb="1"/>
+euh
+<Who nb="2"/>
+tout
+</Turn>
+<Turn speaker="spk2" startTime="32.19" endTime="36.726">
+<Sync time="32.19"/>
+tout le scénario impeccable les acteurs euh géniaux 
+<Sync time="35.508"/>
+rien à redire
+</Turn>
+<Turn speaker="spk1" startTime="36.726" endTime="37.244">
+<Sync time="36.726"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="37.244" endTime="38.774">
+<Sync time="37.244"/>
+on voit pas les deux heures et demi passer
+</Turn>
+<Turn speaker="spk1" startTime="38.774" endTime="43.72">
+<Sync time="38.774"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ d'accord 
+<Sync time="40.218"/>
+donc que diriez-vous à quelqu'un pour aller le convaincre euh d'aller voir ce film ?
+</Turn>
+<Turn speaker="spk2" startTime="43.72" endTime="47.25">
+<Sync time="43.72"/>
+ bah faut courir aller le voir c'est c'est super 
+<Sync time="46.102"/>
+
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="47.25" endTime="50.438">
+<Sync time="47.25"/>
+d'accord et vous pouvez nous raconter vi- en détail enfin 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="50.438" endTime="51.502">
+<Sync time="50.438"/>
+<Who nb="1"/>
+pas en détail justement 
+<Who nb="2"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="51.502" endTime="53.706">
+<Sync time="51.502"/>
+euh vraiment
+<Sync time="52.397"/>
+les grandes lignes du film 
+</Turn>
+<Turn speaker="spk2" startTime="53.706" endTime="87.558">
+<Sync time="53.706"/>
+alors ça se passe dans le Mississippi c'est l'histoire d'une journaliste blanche
+<Sync time="59.066"/>
+qui veut connaître le point de vue des bonnes à tout faire noires 
+<Sync time="63.837"/>
+dans les années soixante 
+<Sync time="65.647"/>
+et donc pour ça elle euh réussit à convaincre euh une bonne noire de lui raconter des anecdotes de sa vie 
+<Sync time="71.367"/>
+et petit à petit toutes les bonnes noires vont s'associer 
+<Sync time="74.797"/>
+pour euh rédiger le le livre avec elle 
+<Sync time="77.547"/>
+et donc c'est plein d'anecdotes et ça montre aussi comment évoluent euh les choses euh 
+<Sync time="82.997"/>
+au niveau de euh des Etats-Unis au niveau de la la vision qu'on a entre les blancs et les noirs
+</Turn>
+<Turn speaker="spk1" startTime="87.558" endTime="94.238">
+<Sync time="87.558"/>
+d'accord 
+<Sync time="88.828"/>
+et euh encore deux petites minutes 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="91.181"/>
+excusez-moi euh est-ce que vous aimez bien ce cinéma ?
+</Turn>
+<Turn speaker="spk2" startTime="94.238" endTime="97.718">
+<Sync time="94.238"/>
+euh oui c'est la deuxième fois que j'y vais c'est pas mal
+</Turn>
+<Turn speaker="spk1" startTime="97.718" endTime="100.021">
+<Sync time="97.718"/>
+d'accord vous allez souvent au cinéma ?
+<Sync time="99.328"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="100.021" endTime="103.451">
+<Sync time="100.021"/>
+euh oui plusieurs fois par an pas plusieurs fois par mois mais plusieurs fois par an
+</Turn>
+<Turn speaker="spk1" startTime="103.451" endTime="108.231">
+<Sync time="103.451"/>
+d'accord et euh des questions un peu plus personnelles vous êtes pas obligée de répondre hein euh juste euh votre âge ?
+</Turn>
+<Turn speaker="spk2" startTime="108.231" endTime="109.786">
+<Sync time="108.231"/>
+euh j'ai vingt-huit ans
+</Turn>
+<Turn speaker="spk1" startTime="109.786" endTime="111.378">
+<Sync time="109.786"/>
+d'accord et votre profession ?
+</Turn>
+<Turn speaker="spk2" startTime="111.378" endTime="112.568">
+<Sync time="111.378"/>
+je suis militaire
+</Turn>
+<Turn speaker="spk1" startTime="112.568" endTime="115.457">
+<Sync time="112.568"/>
+d'accord 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="114.323"/>
+et vous habitez à Orléans ?
+</Turn>
+<Turn speaker="spk2" startTime="115.457" endTime="116.404">
+<Sync time="115.457"/>
+oui tout à fait
+</Turn>
+<Turn speaker="spk1" startTime="116.404" endTime="120.13">
+<Sync time="116.404"/>
+d'accord bah merci beaucoup 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ de nous avoir accordé quelques minutes 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="120.13" endTime="123.272">
+<Sync time="120.13"/>
+<Who nb="1"/>
+bonne soirée au revoir 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+merci au revoir 
+<Sync time="121.567"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

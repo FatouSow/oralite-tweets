@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Asceline Goudjo" audio_filename="ESLO2_cin_09_01" version="10" version_date="140109">
+<Speakers>
+<Speaker id="spk1" name="DL254" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="QG163" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="160.957">
+<Turn startTime="0" endTime="9.768" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="2.388"/>
+bonsoir on est étudiantes a la &amp;fac et on réalise une petite étude sur le cinéma à Orléans
+<Sync time="6.049"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="7.089"/>
+euh est-ce que vous auriez quelques minutes à nous accorder ?
+<Sync time="9.388"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="9.768" endTime="12.857">
+<Sync time="9.768"/>
+euh oui pourquoi pas
+<Sync time="10.987"/>
+
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.857" endTime="16.631">
+<Sync time="12.857"/>
+merci
+<Sync time="13.277"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="13.791"/>
+alors
+<Sync time="14.519"/>
+
+<Sync time="15.135"/>
+quel film venez-vous de voir ?
+</Turn>
+<Turn speaker="spk2" startTime="16.631" endTime="17.493">
+<Sync time="16.631"/>
+Drive
+</Turn>
+<Turn speaker="spk1" startTime="17.493" endTime="19.842">
+<Sync time="17.493"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="18.622"/>
+est-ce que ça vous a plu ?
+<Sync time="19.538"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="19.842" endTime="22.614">
+<Sync time="19.842"/>
+euh non 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ pas vraiment
+<Sync time="21.663"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.614" endTime="27.2">
+<Sync time="22.614"/>
+qu'est-ce qui vous a plu ?
+<Sync time="23.565"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="24.494"/>
+du moins en fait qu'est-ce qui ne vous a pas 
+<Event desc=" pla" type="pronounce" extent="instantaneous"/>
+ plu du coup ? 
+<Sync time="26.472"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.2" endTime="38.565">
+<Sync time="27.2"/>
+euh le manque d'action Drive on s'attend à un film euh
+<Sync time="31.68"/>
+
+<Sync time="32.542"/>
+où y a de l'action justement
+<Sync time="33.783"/>
+
+<Sync time="34.52"/>
+et et pas du tout 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="37.011"/>
+
+<Sync time="37.815"/>
+grosse déception
+</Turn>
+<Turn speaker="spk1" startTime="38.565" endTime="46.437">
+<Sync time="38.565"/>
+ah OK
+<Sync time="39.65"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="40.445"/>
+que diriez-vous à quelqu'un pour le convaincre 
+<Sync time="42.222"/>
+
+<Sync time="42.459"/>
+d'aller voir ce film malgré tout ?
+<Sync time="43.946"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="46.437" endTime="53.456">
+<Sync time="46.437"/>
+euh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="48.884"/>
+franchement ?
+<Sync time="49.478"/>
+
+<Sync time="50.094"/>
+n'allez pas le voir 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="51.322"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="53.456" endTime="55.969">
+<Sync time="53.456"/>
+euh est-ce que vous pouvez me raconter le film ?
+<Sync time="55.255"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="55.969" endTime="98.47">
+<Sync time="55.969"/>
+euh bah c'est un garçon euh très solitaire
+<Sync time="61.46"/>
+
+<Sync time="61.974"/>
+qui fait des cascades pour le cinéma le jour et qui travaille pour euh
+<Sync time="66.318"/>
+
+<Sync time="67.09"/>
+des truands la nuit qui conduit pour eux
+<Sync time="69.657"/>
+
+<Sync time="70.742"/>
+et puis euh bah solitaire jusqu'au moment où il rencontre une fille
+<Sync time="75.711"/>
+une femme avec euh un enfant
+<Sync time="77.666"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="78.921"/>
+et puis voilà quoi
+<Sync time="81.568"/>
+
+<Sync time="81.903"/>
+donc euh là il participe à
+<Sync time="83.934"/>
+
+<Sync time="84.738"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="85.867"/>
+il va il va faire un casse pour aider le mari de cette femme qui va sortir de prison et puis euh et puis ça va pas tourner
+<Sync time="93.122"/>
+
+<Sync time="93.693"/>
+du moins ça va pas ça va pas se faire comme c'était prévu
+<Sync time="97.644"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="98.47" endTime="101.765">
+<Sync time="98.47"/>
+OK est-ce que vous aimez 
+<Event desc="aibez" type="pronounce" extent="instantaneous"/>
+ bien ce cinéma ?
+<Sync time="100.814"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="101.765" endTime="110.912">
+<Sync time="101.765"/>
+euh bien euh 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="104.943"/>
+
+<Sync time="104.948"/>
+pas forcément bien mais j'y vais occasionnellement quand il y a un film qui m'intéresse
+<Sync time="110.194"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="110.912" endTime="113.425">
+<Sync time="110.912"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ OK 
+<Sync time="111.67"/>
+est-ce que vous aimez bien le cinéma en général ?
+</Turn>
+<Turn speaker="spk2" startTime="113.425" endTime="114.515">
+<Sync time="113.425"/>
+oui plutôt
+</Turn>
+<Turn speaker="spk1" startTime="114.515" endTime="116.739">
+<Sync time="114.515"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="115.676"/>
+est-ce que vous y allez souvent ? 
+</Turn>
+<Turn speaker="spk2" startTime="116.739" endTime="121.655">
+<Sync time="116.739"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="117.4"/>
+souvent oui régulièrement
+<Sync time="118.805"/>
+
+<Sync time="119.644"/>
+en fonction des films à l'affiche
+<Sync time="121.061"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="121.655" endTime="126.816">
+<Sync time="121.655"/>
+OK 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="122.651"/>
+donc on termine avec trois dernières questions est-ce que je peux vous demander votre âge ?
+<Sync time="126.267"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="126.816" endTime="128.727">
+<Sync time="126.816"/>
+euh oui j'ai vingt-quatre ans 
+</Turn>
+<Turn speaker="spk1" startTime="128.727" endTime="130.191">
+<Sync time="128.727"/>
+votre profession ?
+<Sync time="129.834"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="130.191" endTime="131.218">
+<Sync time="130.191"/>
+je suis étudiante 
+</Turn>
+<Turn speaker="spk1" startTime="131.218" endTime="134.565">
+<Sync time="131.218"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="131.977"/>
+et euh où est-ce que vous habitez ?
+<Sync time="133.807"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="134.565" endTime="135.973">
+<Sync time="134.565"/>
+euh à Orléans La Source
+<Sync time="135.537"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="135.973" endTime="138.97">
+<Sync time="135.973"/>
+dans le quartier ?
+<Sync time="136.649"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="138.97" endTime="139.454">
+<Sync time="138.97"/>
+comment ?
+</Turn>
+<Turn speaker="spk1" startTime="139.454" endTime="140.503">
+<Sync time="139.454"/>
+quartier Orléans la Source ? 
+</Turn>
+<Turn speaker="spk2" startTime="140.503" endTime="141.039">
+<Sync time="140.503"/>
+oui
+<Sync time="140.771"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="141.039" endTime="156.671">
+<Sync time="141.039"/>
+OK d'accord
+<Sync time="141.76"/>
+
+<Sync time="142.117"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ OK
+<Sync time="143.055"/>
+
+<Sync time="144.461"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ donc merci beaucoup ces enregistrements nous servent à faire le portrait de la ville sonore d'Orléans en deux mille onze
+<Sync time="149.528"/>
+
+<Sync time="150.153"/>
+c'est 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ un projet de l'université
+<Sync time="151.805"/>
+
+<Sync time="152.257"/>
+êtes vous d'accord qu'on utilise cet enregistrement euh 
+<Sync time="154.775"/>
+dans le cadre de ce projet de recherche ?
+<Sync time="156.386"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="156.671" endTime="157.586">
+<Sync time="156.671"/>
+oui y a pas de problème
+</Turn>
+<Turn speaker="spk1" startTime="157.586" endTime="158.992">
+<Sync time="157.586"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="157.631"/>
+c'est totalement anonyme
+<Sync time="158.702"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="158.992" endTime="159.774">
+<Sync time="158.992"/>
+OK très bien
+<Sync time="159.662"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="159.774" endTime="160.957">
+<Sync time="159.774"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ OK bah merci beaucoup
+</Turn>
+</Section>
+</Episode>
+</Trans>

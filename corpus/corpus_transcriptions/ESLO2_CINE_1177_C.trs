@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Asceline Goudjo" audio_filename="ESLO2_cin_01_02" version="18" version_date="131213">
+<Speakers>
+<Speaker id="spk2" name="HV440" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="TK473" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="BL828" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk5" name="HV440FIE" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="101.982">
+<Turn startTime="0" endTime="6.937" speaker="spk4">
+<Sync time="0"/>
+excusez-moi mesdames 
+<Sync time="2.0"/>
+on est étudiantes à la faculté d'Orléans on fait une étude sur le cinéma
+<Sync time="5.092"/>
+on voulait savoir si c'était possible de vous poser quelques questions 
+</Turn>
+<Turn speaker="spk4 spk2" startTime="6.937" endTime="9.424">
+<Sync time="6.937"/>
+<Who nb="1"/>
+sur le film que vous venez de voir?
+<Who nb="2"/>
+si c'est pas très long
+<Sync time="8.076"/>
+<Who nb="1"/>
+non c'est ça dure 
+<Who nb="2"/>
+parce que on rejoint 
+</Turn>
+<Turn speaker="spk4" startTime="9.424" endTime="10.282">
+<Sync time="9.424"/>
+son petit frère 
+</Turn>
+<Turn speaker="spk4" startTime="10.282" endTime="11.374">
+<Sync time="10.282"/>
+ça dure deux minutes 
+</Turn>
+<Turn speaker="spk2" startTime="11.374" endTime="12.018">
+<Sync time="11.374"/>
+allez-y
+</Turn>
+<Turn speaker="spk4" startTime="12.018" endTime="14.313">
+<Sync time="12.018"/>
+alors quel film vous venez de voir ? 
+</Turn>
+<Turn speaker="spk2" startTime="14.313" endTime="15.452">
+<Sync time="14.313"/>
+ben le
+</Turn>
+<Turn speaker="spk3" startTime="15.452" endTime="16.472">
+<Sync time="15.452"/>
+la famille du Père Noël 
+</Turn>
+<Turn speaker="spk2" startTime="16.472" endTime="17.926">
+<Sync time="16.472"/>
+Mission Noël 
+</Turn>
+<Turn speaker="spk4" startTime="17.926" endTime="19.795">
+<Sync time="17.926"/>
+d'accord 
+<Sync time="18.489"/>
+est-ce que ce film vous a plu ? 
+</Turn>
+<Turn speaker="spk2" startTime="19.795" endTime="20.702">
+<Sync time="19.795"/>
+oui
+</Turn>
+<Turn speaker="spk4" startTime="20.702" endTime="23.215">
+<Sync time="20.702"/>
+euh et qu'est-ce qui vous a plu euh dans le film ?
+</Turn>
+<Turn speaker="spk2" startTime="23.215" endTime="26.154">
+<Sync time="23.215"/>
+oh ça change un peu des classiques films de Noël c'était sympa
+</Turn>
+<Turn speaker="spk4" startTime="26.154" endTime="29.5">
+<Sync time="26.154"/>
+et euh que diriez-vous à quelqu'un pour le convaincre d'aller le voir 
+</Turn>
+<Turn speaker="spk2" startTime="29.5" endTime="32.828">
+<Sync time="29.5"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ s'il a des enfants il ira le voir de toute façon 
+</Turn>
+<Turn speaker="spk4 spk2" startTime="32.828" endTime="33.403">
+<Sync time="32.828"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+non 
+</Turn>
+<Turn speaker="spk2" startTime="33.403" endTime="35.662">
+<Sync time="33.403"/>
+mais c'était bien c'était bien c'est tout
+</Turn>
+<Turn speaker="spk4 spk3" startTime="35.662" endTime="36.389">
+<Sync time="35.662"/>
+<Who nb="1"/>
+et
+<Who nb="2"/>
+c'était original
+</Turn>
+<Turn speaker="spk3" startTime="36.389" endTime="37.779">
+<Sync time="36.389"/>
+y a de l'action c'est bien
+</Turn>
+<Turn speaker="spk4" startTime="37.779" endTime="41.335">
+<Sync time="37.779"/>
+d'accord et est-ce que vous pouvez me raconter en en gros de quoi parle le film ? 
+</Turn>
+<Turn speaker="spk2" startTime="41.335" endTime="45.164">
+<Sync time="41.335"/>
+bah c'est euh un enfant qui a été oublié 
+<Sync time="44.36"/>
+
+</Turn>
+<Turn speaker="spk4 spk2" startTime="45.164" endTime="45.883">
+<Sync time="45.164"/>
+<Who nb="1"/>
+d'accord 
+<Who nb="2"/>
+pour Noël 
+</Turn>
+<Turn speaker="spk2" startTime="45.883" endTime="49.282">
+<Sync time="45.883"/>
+pas de cadeau 
+<Sync time="46.789"/>
+donc euh la mission c'est arriver à lui amener son cadeau
+</Turn>
+<Turn speaker="spk4 spk3" startTime="49.282" endTime="50.225">
+<Sync time="49.282"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+et toute la 
+</Turn>
+<Turn speaker="spk3" startTime="50.225" endTime="51.551">
+<Sync time="50.225"/>
+famille du Père Noël s'y met
+</Turn>
+<Turn speaker="spk2" startTime="51.551" endTime="51.992">
+<Sync time="51.551"/>
+voilà
+</Turn>
+<Turn speaker="spk4" startTime="51.992" endTime="52.553">
+<Sync time="51.992"/>
+pour l'aider
+</Turn>
+<Turn speaker="spk2 spk3" startTime="52.553" endTime="53.435">
+<Sync time="52.553"/>
+<Who nb="1"/>
+voilà
+<Who nb="2"/>
+pour l'aider
+</Turn>
+<Turn speaker="spk4" startTime="53.435" endTime="53.711">
+<Sync time="53.435"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="53.711" endTime="59.092">
+<Sync time="53.711"/>
+et le grand-père fait des bêtises 
+<Sync time="55.279"/>
+
+<Sync time="56.029"/>
+et Arthur euh qui est le plus gentil il réussit
+</Turn>
+<Turn speaker="spk4 spk2" startTime="59.092" endTime="60.514">
+<Sync time="59.092"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+c'est ça ? 
+</Turn>
+<Turn speaker="spk2" startTime="60.514" endTime="61.271">
+<Sync time="60.514"/>
+c'est ça Margot ?
+</Turn>
+<Turn speaker="spk5" startTime="61.271" endTime="61.865">
+<Sync time="61.271"/>
+oui mais c'est
+</Turn>
+<Turn speaker="spk3" startTime="61.865" endTime="63.576">
+<Sync time="61.865"/>
+et maintenant s- Arthur c'est le Père Noël
+</Turn>
+<Turn speaker="spk4" startTime="63.576" endTime="66.121">
+<Sync time="63.576"/>
+d'accord et est-ce que vous aimez bien ce cinéma ?
+<Sync time="65.558"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="66.121" endTime="67.447">
+<Sync time="66.121"/>
+le euh vous parlez de 
+</Turn>
+<Turn speaker="spk4" startTime="67.447" endTime="67.85">
+<Sync time="67.447"/>
+ici
+</Turn>
+<Turn speaker="spk2 spk4" startTime="67.85" endTime="68.713">
+<Sync time="67.85"/>
+<Who nb="1"/>
+à Place d'Arc ?
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="68.713" endTime="69.683">
+<Sync time="68.713"/>
+c'est la première fois qu'on vient
+</Turn>
+<Turn speaker="spk4" startTime="69.683" endTime="71.152">
+<Sync time="69.683"/>
+d'accord et est ce que vous aimez le cinéma en 
+</Turn>
+<Turn speaker="spk4 spk2" startTime="71.152" endTime="72.118">
+<Sync time="71.152"/>
+<Who nb="1"/>
+général ?
+<Who nb="2"/>
+oui ça va 
+</Turn>
+<Turn speaker="spk4" startTime="72.118" endTime="73.429">
+<Sync time="72.118"/>
+oui vous y allez souvent ?
+</Turn>
+<Turn speaker="spk2" startTime="73.429" endTime="74.302">
+<Sync time="73.429"/>
+non
+</Turn>
+<Turn speaker="spk4" startTime="74.302" endTime="74.678">
+<Sync time="74.302"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="74.678" endTime="75.881">
+<Sync time="74.678"/>
+on habite à la campagne
+</Turn>
+<Turn speaker="spk4 spk2" startTime="75.881" endTime="77.07">
+<Sync time="75.881"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+pas sur Orléans
+</Turn>
+<Turn speaker="spk4" startTime="77.07" endTime="78.198">
+<Sync time="77.07"/>
+alors je vais terminer
+</Turn>
+<Turn speaker="spk4 spk2" startTime="78.198" endTime="79.027">
+<Sync time="78.198"/>
+<Who nb="1"/>
+très vite
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk4" startTime="79.027" endTime="81.365">
+<Sync time="79.027"/>
+avec trois questions
+<Sync time="80.04"/>
+est-ce que je peux vous demander votre âge ?
+</Turn>
+<Turn speaker="spk2" startTime="81.365" endTime="82.294">
+<Sync time="81.365"/>
+oui trente-huit ans
+</Turn>
+<Turn speaker="spk4" startTime="82.294" endTime="83.422">
+<Sync time="82.294"/>
+votre profession ?
+</Turn>
+<Turn speaker="spk2" startTime="83.422" endTime="84.782">
+<Sync time="83.422"/>
+euh sans profession
+</Turn>
+<Turn speaker="spk4" startTime="84.782" endTime="86.848">
+<Sync time="84.782"/>
+d'accord et euh où vous habitez ?
+</Turn>
+<Turn speaker="spk2" startTime="86.848" endTime="87.887">
+<Sync time="86.848"/>
+à Cerdon-du-Loiret
+</Turn>
+<Turn speaker="spk4 spk2" startTime="87.887" endTime="88.291">
+<Sync time="87.887"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+dans 
+</Turn>
+<Turn speaker="spk2" startTime="88.291" endTime="88.75">
+<Sync time="88.291"/>
+le quarante-cinq
+</Turn>
+<Turn speaker="spk4" startTime="88.75" endTime="96.329">
+<Sync time="88.75"/>
+donc je vous remercie beaucoup cet enregistrement va servir en fait parce qu'on fait le portrait sonore de la ville d'Orléans 
+<Sync time="93.383"/>
+c'est totalement ano- anonyme est-ce qu'on peut s'en servir ?
+</Turn>
+<Turn speaker="spk2" startTime="96.329" endTime="97.306">
+<Sync time="96.329"/>
+oui bien sûr 
+</Turn>
+<Turn speaker="spk4" startTime="97.306" endTime="98.107">
+<Sync time="97.306"/>
+d'accord je vous remercie
+</Turn>
+<Turn speaker="spk4 spk2" startTime="98.107" endTime="98.739">
+<Sync time="98.107"/>
+<Who nb="1"/>
+beaucoup
+<Who nb="2"/>
+je vous prie
+</Turn>
+<Turn speaker="spk4" startTime="98.739" endTime="99.161">
+<Sync time="98.739"/>
+en revoir
+</Turn>
+<Turn speaker="spk2" startTime="99.161" endTime="101.982">
+<Sync time="99.161"/>
+au revoir
+<Sync time="99.489"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

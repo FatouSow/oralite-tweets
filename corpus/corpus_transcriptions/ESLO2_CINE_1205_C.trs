@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Asceline Goudjo" audio_filename="ESLO2_cin_08_02" version="10" version_date="140108">
+<Speakers>
+<Speaker id="spk1" name="TH386" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="LX340" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="PR182" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="107.546">
+<Turn startTime="0" endTime="0.798" speaker="spk1">
+<Sync time="0"/>
+eu-
+<Sync time="0.212"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="0.798" endTime="1.621">
+<Sync time="0.798"/>
+<Who nb="1"/>
+bonjour euh 
+<Who nb="2"/>
+bonjour
+</Turn>
+<Turn speaker="spk1" startTime="1.621" endTime="4.933">
+<Sync time="1.621"/>
+on est étudiantes à la fac et on réalise une petite étude sur le cinéma à Orléans
+</Turn>
+<Turn speaker="spk2" startTime="4.933" endTime="5.346">
+<Sync time="4.933"/>
+euh oui 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="5.346" endTime="5.895">
+<Sync time="5.346"/>
+<Who nb="1"/>
+d'accord 
+<Who nb="2"/>
+et on
+</Turn>
+<Turn speaker="spk1" startTime="5.895" endTime="9.018">
+<Sync time="5.895"/>
+aimerait 
+<Event desc="aimeriait" type="pronounce" extent="previous"/>
+ que vous nous accordiez un petit peu de temps pour répondre à quelques questions
+</Turn>
+<Turn speaker="spk2" startTime="9.018" endTime="9.567">
+<Sync time="9.018"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="9.567" endTime="11.531">
+<Sync time="9.567"/>
+sur le film que vous avez été voir ?
+<Sync time="10.741"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.531" endTime="14.21">
+<Sync time="11.531"/>
+euh je suis allé voir euh Contagion
+</Turn>
+<Turn speaker="spk1" startTime="14.21" endTime="15.786">
+<Sync time="14.21"/>
+est-ce que ça vous a plu ?
+</Turn>
+<Turn speaker="spk2" startTime="15.786" endTime="16.558">
+<Sync time="15.786"/>
+ça va oui
+</Turn>
+<Turn speaker="spk1" startTime="16.558" endTime="18.924">
+<Sync time="16.558"/>
+au niveau du scénario plutôt au niveau des acteurs ?
+</Turn>
+<Turn speaker="spk2" startTime="18.924" endTime="22.786">
+<Sync time="18.924"/>
+au niveau du scénario et au niveau des acteurs les acteurs jouent bien leur rôle
+</Turn>
+<Turn speaker="spk1" startTime="22.786" endTime="27.139">
+<Sync time="22.786"/>
+euh que diriez-vous à quelqu'un pour euh le convaincre d'aller voir ce film ?
+<Sync time="26.031"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="27.139" endTime="30.121">
+<Sync time="27.139"/>
+euh bah le film était diffusé en version originale sous-titrée 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="30.121" endTime="30.43">
+<Sync time="30.121"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+ce qui donnait
+</Turn>
+<Turn speaker="spk2" startTime="30.43" endTime="41.416">
+<Sync time="30.43"/>
+un effet plus euh 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="32.031"/>
+plus vrai au film parce que les doublages français sont souvent mal réalisés 
+<Sync time="35.406"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ le scénario était 
+<Sync time="38.367"/>
+un peu comment dire un peu farfelu mais il était bien 
+</Turn>
+<Turn speaker="spk1" startTime="41.416" endTime="48.483">
+<Sync time="41.416"/>
+d'accord 
+<Sync time="42.041"/>
+euh est-ce que vous pouvez nous raconter le ce film justement mais en quelques petits mots un petit résumé euh rapidement ?
+<Sync time="47.499"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.483" endTime="57.291">
+<Sync time="48.483"/>
+euh c'est une grippe en fait euh une dérivée des grippes H1N1 qui euh 
+<Sync time="53.322"/>
+
+<Sync time="54.439"/>
+qui est meurtrière et qui contamine le monde
+</Turn>
+<Turn speaker="spk1" startTime="57.291" endTime="60.193">
+<Sync time="57.291"/>
+d'accord 
+<Sync time="57.847"/>
+est-ce que vous aimez ce cinéma ? 
+<Sync time="59.084"/>
+
+<Sync time="59.464"/>
+le Pathé ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="60.193" endTime="60.59">
+<Sync time="60.193"/>
+<Who nb="1"/>
+Orléans ?
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="60.59" endTime="61.099">
+<Sync time="60.59"/>
+oui ça va
+</Turn>
+<Turn speaker="spk1" startTime="61.099" endTime="62.617">
+<Sync time="61.099"/>
+euh le cinéma en général aussi ?
+</Turn>
+<Turn speaker="spk2" startTime="62.617" endTime="64.224">
+<Sync time="62.617"/>
+le cinéma en général aussi oui
+</Turn>
+<Turn speaker="spk1" startTime="64.224" endTime="66.367">
+<Sync time="64.224"/>
+vous y allez as- souvent ?
+<Sync time="65.067"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="66.367" endTime="69.046">
+<Sync time="66.367"/>
+ça dépend euh une fois une fois par mois j'essaie
+</Turn>
+<Turn speaker="spk1" startTime="69.046" endTime="77.564">
+<Sync time="69.046"/>
+d'accord 
+<Sync time="69.961"/>
+euh on va terminer par trois dernières petites questions si ça vous dérange pas 
+<Sync time="73.746"/>
+euh de nous communiquer votre âge votre profession et où vous habitez ?
+</Turn>
+<Turn speaker="spk2" startTime="77.564" endTime="80.47">
+<Sync time="77.564"/>
+euh vingt-deux ans Orléans et je suis animateur
+</Turn>
+<Turn speaker="spk1" startTime="80.47" endTime="97.323">
+<Sync time="80.47"/>
+d'accord très bien 
+<Sync time="81.492"/>
+euh
+<Sync time="82.992"/>
+cet enregistrement sera va nous servir euh à faire euh 
+<Sync time="86.68"/>
+un portrait euh sonore de la ville 
+<Sync time="88.555"/>
+euh on va établir un rapport en fait euh sur 
+<Sync time="91.229"/>
+et on va f- établir des statistiques sur comment les gens parlent exactement à Orléans 
+<Sync time="95.274"/>
+sachant que ce rapport est anonyme
+</Turn>
+<Turn speaker="spk2" startTime="97.323" endTime="97.68">
+<Sync time="97.323"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="97.68" endTime="103.35">
+<Sync time="97.68"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et euh on aimerait savoir si cet enregistrement ça ça vous dérange qu'on le 
+<Sync time="101.118"/>
+qu'on s'en serve justement euh pour faire ces statistiques ?
+</Turn>
+<Turn speaker="spk2" startTime="103.35" endTime="104.376">
+<Sync time="103.35"/>
+non du tout
+</Turn>
+<Turn speaker="spk1 spk3" startTime="104.376" endTime="105.76">
+<Sync time="104.376"/>
+<Who nb="1"/>
+d'accord bah merci beaucoup
+<Who nb="2"/>
+bah merci beaucoup
+</Turn>
+<Turn speaker="spk3 spk2" startTime="105.76" endTime="106.118">
+<Sync time="105.76"/>
+<Who nb="1"/>
+bonne journée
+<Who nb="2"/>
+bonne journée 
+</Turn>
+<Turn speaker="spk1" startTime="106.118" endTime="107.546">
+<Sync time="106.118"/>
+bonne journée monsieur au revoir
+</Turn>
+</Section>
+</Episode>
+</Trans>

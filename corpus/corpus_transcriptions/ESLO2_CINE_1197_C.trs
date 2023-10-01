@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Asceline Goudjo" audio_filename="ESLO2_cin_06_01" version="5" version_date="140107">
+<Speakers>
+<Speaker id="spk1" name="XZ056" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="ZQ009" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="88.357">
+<Turn startTime="0" endTime="0.482">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="0.482" endTime="4.81">
+<Sync time="0.482"/>
+bonjour
+<Sync time="0.998"/>
+
+<Sync time="1.487"/>
+on peut vous poser quelques questions sur le film que m- que vous venez d'aller voir ?
+</Turn>
+<Turn speaker="spk2" startTime="4.81" endTime="5.466">
+<Sync time="4.81"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="5.466" endTime="12.88">
+<Sync time="5.466"/>
+d'accord
+<Sync time="6.154"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="6.502"/>
+donc on est étudiantes à la &amp;fac à Orléans et on fait une étude sur le cinéma
+<Sync time="10.216"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ donc euh quel film vous venez d'aller voir ?
+</Turn>
+<Turn speaker="spk2" startTime="12.88" endTime="13.67">
+<Sync time="12.88"/>
+Contagion
+</Turn>
+<Turn speaker="spk1" startTime="13.67" endTime="15.67">
+<Sync time="13.67"/>
+d'accord
+<Sync time="14.31"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ est-ce que ça vous a plu ?
+</Turn>
+<Turn speaker="spk2" startTime="15.67" endTime="16.243">
+<Sync time="15.67"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="16.243" endTime="19.029">
+<Sync time="16.243"/>
+euh plutôt le scénario les acteurs euh ?
+</Turn>
+<Turn speaker="spk2" startTime="19.029" endTime="21.007">
+<Sync time="19.029"/>
+bah le le tout c'est un ensemble
+</Turn>
+<Turn speaker="spk1" startTime="21.007" endTime="25.857">
+<Sync time="21.007"/>
+d'accord
+<Sync time="21.404"/>
+et euh que diriez-vous à quelqu'un pour le convaincre d'aller voir ce film ?
+<Sync time="24.357"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="25.857" endTime="27.873">
+<Sync time="25.857"/>
+euh bah c'est prenant
+</Turn>
+<Turn speaker="spk2 spk2" startTime="27.873" endTime="28.436">
+<Sync time="27.873"/>
+<Who nb="1"/>
+d'acc-
+<Who nb="2"/>
+hein
+</Turn>
+<Turn speaker="spk2" startTime="28.436" endTime="37.544">
+<Sync time="28.436"/>
+quand même hein et euh bon y a
+<Sync time="30.232"/>
+
+<Sync time="31.294"/>
+qu'est-ce que je pourrais dire euh
+<Sync time="33.314"/>
+
+<Sync time="34.435"/>
+on s'ennuie oup- on s'ennuie pas quoi on s'ennuie pas tout le long du film euh 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="37.544" endTime="38.068">
+<Sync time="37.544"/>
+<Who nb="1"/>
+c'est sympa 
+<Who nb="2"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="38.068" endTime="44.091">
+<Sync time="38.068"/>
+bon par contre c'est quand même euh 
+<Sync time="39.154"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ y a pas trop de surprises non plus quoi on l'a déjà un petit peu vu et revu ce genre de choses
+</Turn>
+<Turn speaker="spk1" startTime="44.091" endTime="47.997">
+<Sync time="44.091"/>
+d'accord
+<Sync time="44.705"/>
+et est-ce que vous pouvez me raconter le film en en résumé hein vraiment 
+</Turn>
+<Turn speaker="spk2" startTime="47.997" endTime="58.701">
+<Sync time="47.997"/>
+bah en résumé euh c'est simple de toute façon c'est 
+<Sync time="51.286"/>
+quelqu'un qui est contaminé et qui contamine plein de monde et puis voilà quoi après bon
+<Sync time="56.09"/>
+ils arrivent à trouver un vaccin et puis et puis voilà
+</Turn>
+<Turn speaker="spk1" startTime="58.701" endTime="61.217">
+<Sync time="58.701"/>
+d'accord
+<Sync time="59.475"/>
+est-ce que vous aimez bien ce cinéma-là ?
+</Turn>
+<Turn speaker="spk2" startTime="61.217" endTime="63.31">
+<Sync time="61.217"/>
+c'est la première fois que j'y vais je suis pas du coin
+</Turn>
+<Turn speaker="spk1" startTime="63.31" endTime="66.623">
+<Sync time="63.31"/>
+ah d'accord 
+<Sync time="64.248"/>
+et euh est-ce que vous aimez le cinéma en général ?
+</Turn>
+<Turn speaker="spk2" startTime="66.623" endTime="67.076">
+<Sync time="66.623"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="67.076" endTime="68.873">
+<Sync time="67.076"/>
+et euh vous y allez souvent ?
+</Turn>
+<Turn speaker="spk2" startTime="68.873" endTime="70.023">
+<Sync time="68.873"/>
+de temps en temps oui
+</Turn>
+<Turn speaker="spk1" startTime="70.023" endTime="73.936">
+<Sync time="70.023"/>
+d'accord 
+<Sync time="70.502"/>
+euh je termine avec trois dernières questions est-ce que je peux vous demander votre âge ?
+</Turn>
+<Turn speaker="spk2" startTime="73.936" endTime="74.936">
+<Sync time="73.936"/>
+quarante-six
+</Turn>
+<Turn speaker="spk1" startTime="74.936" endTime="76.194">
+<Sync time="74.936"/>
+d'accord
+<Sync time="75.389"/>
+votre profession ?
+</Turn>
+<Turn speaker="spk2" startTime="76.194" endTime="77.249">
+<Sync time="76.194"/>
+euh fonctionnaire
+</Turn>
+<Turn speaker="spk1" startTime="77.249" endTime="78.577">
+<Sync time="77.249"/>
+et euh où habitez-vous ?
+</Turn>
+<Turn speaker="spk2" startTime="78.577" endTime="79.89">
+<Sync time="78.577"/>
+à Dreux
+</Turn>
+<Turn speaker="spk1" startTime="79.89" endTime="86.39">
+<Sync time="79.89"/>
+d'accord
+<Sync time="80.655"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et euh merci beaucoup donc et est-ce qu'on peut euh utiliser ces enregistrements pour faire le portrait sonore de la ville ?
+</Turn>
+<Turn speaker="spk2" startTime="86.39" endTime="87.218">
+<Sync time="86.39"/>
+oui bien sûr
+</Turn>
+<Turn speaker="spk1" startTime="87.218" endTime="88.357">
+<Sync time="87.218"/>
+d'accord ben merci beaucoup 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

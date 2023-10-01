@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Asceline Goudjo" audio_filename="ESLO2_cin_08_01" version="12" version_date="140107">
+<Speakers>
+<Speaker id="spk1" name="PR182" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="JX980" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="DJ659" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="TH386" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="101.773">
+<Turn startTime="0" endTime="7.679" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1.261"/>
+bo- bonjour nous sommes étudiantes à la &amp;fac à Orléans et on réalise une petite enquête sur le cinéma 
+<Sync time="5.75"/>
+est-ce qu'on pourrait vous poser euh quelques questions ?
+</Turn>
+<Turn speaker="spk2 spk3" startTime="7.679" endTime="8.719">
+<Sync time="7.679"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+super théâtral
+</Turn>
+<Turn speaker="spk1" startTime="8.719" endTime="10.237">
+<Sync time="8.719"/>
+alors quel film venez-vous d'aller voir ?
+</Turn>
+<Turn speaker="spk2" startTime="10.237" endTime="11.063">
+<Sync time="10.237"/>
+Twilight
+</Turn>
+<Turn speaker="spk2 spk1" startTime="11.063" endTime="12.215">
+<Sync time="11.063"/>
+<Who nb="1"/>
+quatre
+<Who nb="2"/>
+est-ce qu'il vous a plu ?
+</Turn>
+<Turn speaker="spk2" startTime="12.215" endTime="12.898">
+<Sync time="12.215"/>
+oui 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.898" endTime="16.045">
+<Sync time="12.898"/>
+euh est-ce que vous pouvez euh enfin qu'est-ce qui vous a plu dans ce film-là ?
+</Turn>
+<Turn speaker="spk2" startTime="16.045" endTime="19.304">
+<Sync time="16.045"/>
+euh j'ai bien retrouvé euh ce que j'avais lu dans le livre
+</Turn>
+<Turn speaker="spk1 spk2" startTime="19.304" endTime="19.898">
+<Sync time="19.304"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+et euh 
+</Turn>
+<Turn speaker="spk2" startTime="19.898" endTime="21.469">
+<Sync time="19.898"/>
+voilà c'était assez rythmé euh
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.469" endTime="22.467">
+<Sync time="21.469"/>
+<Who nb="1"/>
+y avait un
+<Who nb="2"/>
+donc c'est plutôt le livre 
+</Turn>
+<Turn speaker="spk1" startTime="22.467" endTime="25.934">
+<Sync time="22.467"/>
+enfin le scénario que les acteurs ou tout global ?
+</Turn>
+<Turn speaker="spk2" startTime="25.934" endTime="26.863">
+<Sync time="25.934"/>
+global
+</Turn>
+<Turn speaker="spk1" startTime="26.863" endTime="27.211">
+<Sync time="26.863"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="27.211" endTime="27.859">
+<Sync time="27.211"/>
+
+<Event desc="e" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="27.859" endTime="30.73">
+<Sync time="27.859"/>
+alors qu'est-ce que vous diriez à quelqu'un pour le convaincre d'aller voir ce film ?
+</Turn>
+<Turn speaker="spk2" startTime="30.73" endTime="36.882">
+<Sync time="30.73"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ hm que il est pas très il est pas niais comme ceux d'avant et que y avait de l'action et qu'y a du gore 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.882" endTime="41.427">
+<Sync time="36.882"/>
+d'accord 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ merci 
+<Sync time="38.317"/>
+est-ce que vous pouvez me le raconter en quelques mots ? me le résumer ?
+</Turn>
+<Turn speaker="spk2" startTime="41.427" endTime="58.539">
+<Sync time="41.427"/>
+hm 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="43.408"/>
+
+<Sync time="44.226"/>
+euh bah c'est la continuité euh des trois précédents euh 
+<Sync time="48.164"/>
+avec euh 
+<Sync time="49.725"/>
+enfin on arrive un peu à l'apogée euh
+<Sync time="52.35"/>
+y a tout qui se décante euh 
+<Sync time="54.444"/>
+y a du suspens de l'action et beaucoup de romantisme 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="58.539" endTime="58.977">
+<Sync time="58.539"/>
+d'accord
+</Turn>
+<Turn speaker="spk1 spk2" startTime="58.977" endTime="59.416">
+<Sync time="58.977"/>
+<Who nb="1"/>
+merci 
+<Who nb="2"/>
+je peux pas trop
+</Turn>
+<Turn speaker="spk2" startTime="59.416" endTime="60.151">
+<Sync time="59.416"/>
+raconter 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="60.151" endTime="60.86">
+<Sync time="60.151"/>
+<Who nb="1"/>
+ouais pour euh pour ceux 
+<Who nb="2"/>
+c'est Twilight
+</Turn>
+<Turn speaker="spk4" startTime="60.86" endTime="61.758">
+<Sync time="60.86"/>
+qui veulent aller le voir 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.758" endTime="63.432">
+<Sync time="61.758"/>
+surtout qu'y a beaucoup de pubs dessus 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.432" endTime="65.129">
+<Sync time="63.432"/>
+est-ce que vous aimez bien ce cinéma ?
+</Turn>
+<Turn speaker="spk2" startTime="65.129" endTime="66.147">
+<Sync time="65.129"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ oui
+</Turn>
+<Turn speaker="spk1" startTime="66.147" endTime="67.611">
+<Sync time="66.147"/>
+le cinéma en général ?
+</Turn>
+<Turn speaker="spk2" startTime="67.611" endTime="68.482">
+<Sync time="67.611"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="68.482" endTime="70.393">
+<Sync time="68.482"/>
+et euh vous y allez souvent ?
+</Turn>
+<Turn speaker="spk2" startTime="70.393" endTime="71.478">
+<Sync time="70.393"/>
+
+<Event desc="passage d'un camion" type="noise" extent="instantaneous"/>
+ euh oui 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="71.478" endTime="77.161">
+<Sync time="71.478"/>
+d'accord donc on termine on a trois petites questions à vous demander c'est est-ce que vous pouvez nous donner votre âge votre profession et où est-ce que vous habitez ?
+</Turn>
+<Turn speaker="spk2" startTime="77.161" endTime="83.657">
+<Sync time="77.161"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ oui euh j'ai vingt et un ans euh je suis euh apprentie euh en secrétariat 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="83.657" endTime="84.454">
+<Sync time="83.657"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+BTS
+</Turn>
+<Turn speaker="spk2" startTime="84.454" endTime="86.795">
+<Sync time="84.454"/>
+et euh j'habite à Saint-Jean-de-la-Ruelle
+</Turn>
+<Turn speaker="spk1" startTime="86.795" endTime="96.684">
+<Sync time="86.795"/>
+d'accord donc euh en fait euh là l'enregistrement qu'on a fait c'est pour étudier euh le langage 
+<Sync time="91.506"/>
+donc on se demandait si pour les recherches vous accepteriez qu'on l'utilise mais ce sera anonyme totalement anonyme
+</Turn>
+<Turn speaker="spk2" startTime="96.684" endTime="97.398">
+<Sync time="96.684"/>
+pas de soucis 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="97.398" endTime="99.089">
+<Sync time="97.398"/>
+d'accord bah merci beaucoup c'est gentil
+</Turn>
+<Turn speaker="spk3" startTime="99.089" endTime="100.459">
+<Sync time="99.089"/>
+en fait c'est la police ils t'ont pas dit
+</Turn>
+<Turn speaker="spk2" startTime="100.459" endTime="101.773">
+<Sync time="100.459"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
