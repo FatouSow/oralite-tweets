@@ -1,1 +1,2 @@
 # oralite-tweets
+À partir de textes représentant le discours oral (transcriptions), le discours écrit (articles de journal) et le discours oral au style écrit (discours politiques), nous avons souhaité évaluer le degré d'oralité des tweets en effectuant une étude comparée de ces différents corpus. Nous avons ainsi adopté une approche par règles et par apprentissage et ces techniques sont explicitées dans le fichier de présentation du projet (cf diaporama_degre_oralite_tweets)
